@@ -1,0 +1,4 @@
+Model,Top1_Variable,Top1_SHAP,green_1_SHAP,green_1_Rank,green_1_pct_of_top1
+DeepMLP,sex,0.0771,0.0067,8,8.69
+Random_Forest,sex,0.0584,0.0026,16,4.45
+XGBoost,sex,0.3278,0.0211,13,6.44

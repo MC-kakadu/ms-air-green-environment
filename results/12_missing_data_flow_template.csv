@@ -1,0 +1,6 @@
+Step,N,Percent_missing_of_step
+1. Raw KNHANES 2018-2022 respondents,<직접 입력>,-
+2. Excluded: missing MetS diagnostic components,<직접 입력>,<직접 입력>
+"3. Excluded: missing covariates (education, income, smoking, etc.)",<직접 입력>,<직접 입력>
+4. Excluded: unmatched region-year environmental data,<직접 입력>,<직접 입력>
+5. Final analytic sample,20035,-

@@ -1,0 +1,4 @@
+Model,Brier_Score,Calib_Slope,Calib_Intercept
+DeepMLP,0.227,0.6379,-0.0132
+Random_Forest,0.2235,0.922,-0.1464
+XGBoost,0.2287,0.7161,-0.0565

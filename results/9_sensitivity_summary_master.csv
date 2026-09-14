@@ -1,0 +1,6 @@
+Sensitivity_Axis,Output_File
+Predictor set (With/Without HE_obe),4_HEobe_leakage_before_after.csv
+Sample weighting (Weighted/Unweighted),5_weighted_vs_unweighted.csv
+Class imbalance correction (4 conditions),6_class_imbalance_4conditions_top3.csv
+Data split (Single split vs 5-Fold CV),9_5fold_cv_vs_single_split.csv
+Geographic split (Random vs LORO),7_LORO_summary_top3.csv

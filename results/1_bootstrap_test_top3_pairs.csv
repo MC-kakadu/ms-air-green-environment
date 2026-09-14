@@ -1,0 +1,4 @@
+Comparison,Mean_AUC_Diff,CI_Lower,CI_Upper,p_value
+DeepMLP vs Random_Forest,0.0044,-0.0057,0.0151,0.41
+DeepMLP vs XGBoost,0.0075,-0.0027,0.0187,0.172
+Random_Forest vs XGBoost,0.0031,-0.0028,0.0089,0.308

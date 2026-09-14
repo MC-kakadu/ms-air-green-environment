@@ -1,0 +1,7 @@
+Model,Feature_Set,N_Features,Cumulative_Explained_Variance,AUC
+Random_Forest,Original_7Vars,37,1.0,0.6604
+XGBoost,Original_7Vars,37,1.0,0.658
+DeepMLP,Original_7Vars,37,1.0,0.6628
+Random_Forest,PCA_3Components,33,0.8781,0.6598
+XGBoost,PCA_3Components,33,0.8781,0.6617
+DeepMLP,PCA_3Components,33,0.8781,0.6639

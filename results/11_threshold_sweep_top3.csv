@@ -1,0 +1,16 @@
+Model,Threshold,Precision,Recall,Approx_NNS
+DeepMLP,0.3,0.3299,0.905,3.0
+DeepMLP,0.4,0.3537,0.8177,2.8
+DeepMLP,0.5,0.3686,0.6868,2.7
+DeepMLP,0.6,0.4117,0.3934,2.4
+DeepMLP,0.7,0.4562,0.033,2.2
+Random_Forest,0.3,0.3153,0.9673,3.2
+Random_Forest,0.4,0.3422,0.8604,2.9
+Random_Forest,0.5,0.3692,0.5947,2.7
+Random_Forest,0.6,0.4372,0.1406,2.3
+Random_Forest,0.7,0.0,0.0,
+XGBoost,0.3,0.3249,0.9399,3.1
+XGBoost,0.4,0.344,0.8331,2.9
+XGBoost,0.5,0.3663,0.6673,2.7
+XGBoost,0.6,0.411,0.3408,2.4
+XGBoost,0.7,0.4647,0.0357,2.2

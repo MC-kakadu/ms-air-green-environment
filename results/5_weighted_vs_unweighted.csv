@@ -1,0 +1,7 @@
+Training_Condition,Model,AUC_weighted_eval,AUC_unweighted_eval
+Weighted Training,DeepMLP,0.6664,0.6576
+Weighted Training,Random_Forest,0.6623,0.6565
+Weighted Training,XGBoost,0.6591,0.6548
+Unweighted Training,DeepMLP,0.6674,0.6643
+Unweighted Training,Random_Forest,0.6628,0.6567
+Unweighted Training,XGBoost,0.6662,0.6596

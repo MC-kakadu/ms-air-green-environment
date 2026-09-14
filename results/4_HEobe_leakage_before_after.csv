@@ -1,0 +1,7 @@
+Condition,Model,Weighted_AUC
+Without HE_obe (Primary/Corrected),DeepMLP,0.6548
+Without HE_obe (Primary/Corrected),Random_Forest,0.6623
+Without HE_obe (Primary/Corrected),XGBoost,0.6591
+With HE_obe (Original/Leaky),DeepMLP,0.8184
+With HE_obe (Original/Leaky),Random_Forest,0.8117
+With HE_obe (Original/Leaky),XGBoost,0.821

@@ -1,0 +1,4 @@
+Variable_1,Variable_2,Pearson_r
+NO2,O3,-0.856
+NO2,green_1,-0.812
+PM10,PM2_5,0.91
