@@ -10,7 +10,7 @@ By combining regional air pollution (CO, NO2, O3, PM10, PM2.5, SO2) and green ar
 Mukeun Choi_1 and Taeyeon Oh_2*
 
 * 1 : Seoul AI School, aSSIST University, Seoul, Republic of Korea
-* 1 : SDG Management School, Geneva, Swiss
+* 1 : SDG Management School, Geneva, Switzerland
 * 2 : Seoul AI School, aSSIST University, Seoul, Republic of Korea
 * \* : Corresponding Author
 
