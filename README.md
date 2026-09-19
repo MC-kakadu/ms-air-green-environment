@@ -1,8 +1,8 @@
-# Metabolic Syndrome Risk Prediction with Environmental Exposure Data (KNHANES 2018–2022)
+# Metabolic Syndrome Risk Identification with Environmental Exposure Data (KNHANES 2018–2022)
 
 Files and guides to reproduce the experiments of the paper:
 
-> **Development of Metabolic Syndrome Risk Prediction Model by Integrating Korea National Health and Nutrition Examination Survey Data with Regional Particulate Matter, Air Pollutants, and Green Environmental Factors**, BMC Public Health
+> **Development of Metabolic Syndrome Risk Identification Model by Integrating Korea National Health and Nutrition Examination Survey Data with Regional Particulate Matter, Air Pollutants, and Green Environmental Factors**, BMC Public Health
 
 By combining regional air pollution (CO, NO2, O3, PM10, PM2.5, SO2) and green area per capita (green_1) data with the National Health and Nutrition Examination Survey (KNHANES) 2018–2022 data (over 30 years old, N = 20,035), this study predicts the risk of metabolic syndrome (MetS) with eight machine learning/deep learning models (Logical Regression, Random Forest, XGBoost, LightGBM, SVM, Basic MLP, DeepMLP, and ResNetMLP).
 
